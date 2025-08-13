@@ -11,7 +11,7 @@ const InvestorSection: React.FC = () => {
             BikeBroo represents a unique investment opportunity in a high-growth market. Our scalable model, strong environmental impact, and clear path to profitability are set to redefine urban commuting in India.
           </p>
           <a
-            href="/public/BikeBroo_Pitch_Deck.pdf"
+            href="/BikeBroo_Pitch_Deck.pdf"
             download="BikeBroo_Pitch_Deck.pdf"
             className="inline-block bg-brand-green hover:bg-brand-green-dark text-white font-bold py-3 px-10 rounded-full transition-transform transform hover:scale-105 duration-300"
           >
